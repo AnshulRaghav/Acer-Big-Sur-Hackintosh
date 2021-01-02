@@ -24,7 +24,6 @@ I followed [TechNolli's](https://www.youtube.com/watch?v=jqg7MX3FS7M) video tuto
 
 ## What's not working
 #### Nvidia graphics(Geforce MX130)(not supported on macOS)
-#### Brightness control
 
 <br>
 
@@ -39,8 +38,22 @@ If you don't want to use recovery method to create bootable USB and want full bo
 <br>
 
 ## Installation
-After creating bootable USB, reboot your machine and got to your BIOS, set settings same as [SiddheshNan](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh) and also enable boot menu for F12 key(relevant to acer aspire 5 A515-51G).I'll also recommend to place your USB at the top in your boot priority order as it'll save you from the hassle of pressing F12 key on every reboot and select your stick since your laptop will reboot several times during installation. Save changes and press F12 to bring up the boot menu(does not require if you've placed USB at top in boot priority).Select your USB stick and allow it to perform it's magic for you until you see the Big Sur installer.My laptop took 40 minutes before I finally saw the Big Sur installer. If you find that your installation is stuck at some point you could always check [OpenCore troubleshooting](https://dortania.github.io/OpenCore-Install-Guide/troubleshooting/troubleshooting.html).
+* After creating bootable USB, reboot your machine and got to your BIOS, set settings same as [SiddheshNan](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh) and plus also enable boot menu for F12 key(relevant to acer aspire 5 A515-51G model).<br>
+I'll also recommend to place your USB at the top in your boot priority order as it'll save you from the hassle of pressing F12 key on every reboot and select your stick since your laptop will reboot several times during the installation process. <br>
+* Save changes and press F12 to bring up the boot menu(not required if you've placed USB at the top in boot priority).<br>
+* Select your USB stick and allow it to perform it's magic for you until you see the Big Sur installer.My laptop took 40 minutes before I finally saw the Big Sur installer. <br>
+<br>
+If you find that your installation is stuck at some point you could always refer to [OpenCore troubleshooting](https://dortania.github.io/OpenCore-Install-Guide/troubleshooting/troubleshooting.html) guide.
 
 ## Post Installation
 #### Internet Fix
-If you are like me who use mobile internet on laptop then you'll be required to perform USB tethering using HoRNDIS.kext since Qualcom Atheros QCA9377 Wifi is not supported on macOS Big Sur.Install HoRNDis.pkg from the repo to your hackintosh machine.It'll show that the installation failed(Don't worry it'll).Reboot and connect your mobile device to your laptop using USB cable and enable USB tethering on your mobile settings(Settings > Tethering & Portable Hotspot > USB Tethering) and you'll be good to go.
+If you are like me who use mobile internet on laptop then you'll be required to perform USB tethering using HoRNDIS.kext since Qualcom Atheros QCA9377 Wifi is not supported on macOS Big Sur.<br><br>
+* Install HoRNDis.pkg from the repo to your hackintosh machine.It'll show that the installation failed(Don't worry it'll).<br>
+* Reboot and connect your mobile device to your laptop using USB cable and enable USB tethering on your mobile settings(Settings > Tethering & Portable Hotspot > USB Tethering) and you'll be good to go.
+
+# CREDITS
+[Technolli](https://www.youtube.com/channel/UCO4u3XLKPLDLWkPnpfD2Vlg)
+[OpenCore](https://dortania.github.io)
+[Special credit to SiddheshNan(you made it perfect Hackintosh machine)](https://github.com/SiddheshNan)
+
+## A big shoutout to all the geeks out there.Without you people, this won't be possible.If I kept googling stuff and it kept on working,it was because of you.
