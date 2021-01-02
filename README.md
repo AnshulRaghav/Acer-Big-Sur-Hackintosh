@@ -47,13 +47,13 @@ If you find that your installation is stuck at some point you could always refer
 
 ## Post Installation
 #### Internet Fix
-If you are like me who use mobile internet on laptop then you'll be required to perform USB tethering using HoRNDIS.kext since Qualcom Atheros QCA9377 Wifi is not supported on macOS Big Sur.<br><br>
+If you are like me who use mobile internet on laptop then you'll be required to perform USB tethering using HoRNDIS.kext since Qualcom Atheros QCA9377 Wifi is not supported on macOS Big Sur.<br>
 * Install HoRNDis.pkg from the repo to your hackintosh machine.It'll show that the installation failed(Don't worry it'll).<br>
 * Reboot and connect your mobile device to your laptop using USB cable and enable USB tethering on your mobile settings(Settings > Tethering & Portable Hotspot > USB Tethering) and you'll be good to go.
 
 # CREDITS
 [Technolli](https://www.youtube.com/channel/UCO4u3XLKPLDLWkPnpfD2Vlg)
 [OpenCore](https://dortania.github.io)
-[Special credit to SiddheshNan(you made it perfect Hackintosh machine)](https://github.com/SiddheshNan)
+[Special credits to SiddheshNan(you made it a perfect Hackintosh machine)](https://github.com/SiddheshNan)
 
 ## A big shoutout to all the geeks out there.Without you people, this won't be possible.If I kept googling stuff and it kept on working,it was because of you.
