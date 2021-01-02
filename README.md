@@ -1,5 +1,5 @@
 # Big Sur Acer-Aspire-5-A515-51G-Hackintosh
-Apple's Mac OS Big Sur in Acer laptop using OpenCore.
+Apple's Mac OS Big Sur hackintosh using OpenCore.
 
 ![Screenshot](https://github.com/AnshulRaghav/Acer-Big-Sur-Hackintosh/blob/master/Screen%20Shot%202021-01-02%20at%2019.24.52.png)
 
