@@ -43,8 +43,7 @@ I'll also recommend to place your USB at the top in your boot priority order as 
 * Save changes and press F12 to bring up the boot menu(not required if you've placed USB at the top in boot priority).<br>
 * Select your USB stick and allow it to perform it's magic for you until you see the Big Sur installer.My laptop took 40 minutes before I finally saw the Big Sur installer. <br>
 <br>
-If you find that your installation is stuck at some point you could always refer to 
-[OpenCore](https://dortania.github.io/OpenCore-Install-Guide/troubleshooting/troubleshooting.html)
+If you find that your installation is stuck at some point you could always refer to https://dortania.github.io/OpenCore-Install-Guide/troubleshooting/troubleshooting.html
 
 ## Post Installation
 #### Internet Fix
