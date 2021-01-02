@@ -43,7 +43,8 @@ I'll also recommend to place your USB at the top in your boot priority order as 
 * Save changes and press F12 to bring up the boot menu(not required if you've placed USB at the top in boot priority).<br>
 * Select your USB stick and allow it to perform it's magic for you until you see the Big Sur installer.My laptop took 40 minutes before I finally saw the Big Sur installer. <br>
 <br>
-If you find that your installation is stuck at some point you could always refer to [OpenCore troubleshooting guide](https://dortania.github.io/OpenCore-Install-Guide/troubleshooting/troubleshooting.html).
+If you find that your installation is stuck at some point you could always refer to 
+[OpenCore](https://dortania.github.io/OpenCore-Install-Guide/troubleshooting/troubleshooting.html)
 
 ## Post Installation
 #### Internet Fix
@@ -51,9 +52,12 @@ If you are like me who use mobile internet on laptop then you'll be required to 
 * Install HoRNDis.pkg from the repo to your hackintosh machine.It'll show that the installation failed(Don't worry it'll).<br>
 * Reboot and connect your mobile device to your laptop using USB cable and enable USB tethering on your mobile settings(Settings > Tethering & Portable Hotspot > USB Tethering) and you'll be good to go.
 
-# CREDITS
-[Technolli](https://www.youtube.com/channel/UCO4u3XLKPLDLWkPnpfD2Vlg)
-[OpenCore](https://dortania.github.io)
-[Special credits to SiddheshNan(you made it a perfect Hackintosh machine)](https://github.com/SiddheshNan)
+### CREDITS
+[Technolli](https://www.youtube.com/channel/UCO4u3XLKPLDLWkPnpfD2Vlg) <br>
+[OpenCore](https://dortania.github.io) <br>
+Special credits to [SiddheshNan](https://github.com/SiddheshNan)(you made it a perfect Hackintosh machine)] <br>
+[alexandred](https://github.com/alexandred/) for VoodooI2C. <br>
+Special Credits to [RehabMan](https://github.com/RehabMan). <br>
+Thanks to [Acidanthera](https://github.com/acidanthera)
 
 ## A big shoutout to all the geeks out there.Without you people, this won't be possible.If I kept googling stuff and it kept on working,it was because of you.
