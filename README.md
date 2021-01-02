@@ -10,7 +10,7 @@ I followed [TechNolli's](https://www.youtube.com/watch?v=jqg7MX3FS7M) video tuto
 
 ## What's Working
 #### Audio
-#### Headphone(To fix cracking sound try [SiddheshNan](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh fix)
+#### Headphone(To fix cracking sound try [SiddheshNan ALCPlugFix](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh).It didn't work in my case.)
 #### Audio Fn keys
 #### Internet(using HoRNDis kext)
 #### TouchPad
