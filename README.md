@@ -1,7 +1,7 @@
 # Big Sur Acer-Aspire-5-A515-51G-Hackintosh
 Apple's Mac OS Big Sur in Acer laptop using OpenCore.
 
-![Screenshot](https://github.com/AnshulRaghav/Big-Sur-Hackintosh/blob/master/Screen%20Shot%202020-12-31%20at%2006.49.42.png)
+![Screenshot](https://github.com/AnshulRaghav/Acer-Big-Sur-Hackintosh/blob/master/Screen%20Shot%202021-01-02%20at%2019.24.52.png)
 
 I followed [TechNolli's](https://www.youtube.com/watch?v=jqg7MX3FS7M) video tutorial and [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) guide to create my hackintosh machine.I highly recommend to follow these two as they will give you a brief idea about Hackintosh and you can then create your Hackintosh machine according to your system specifications.
 <br> **Note: These two methods(Technolli and Opencore guide) use recovery pkg to create bootable USB which means you will be required to access internet during MacOS install.**
