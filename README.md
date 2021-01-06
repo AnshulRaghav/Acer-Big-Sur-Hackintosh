@@ -38,6 +38,7 @@ If you don't want to use recovery method to create bootable USB and want full bo
 <br>
 
 ## Installation
+***Note:Touchpad and IC2 Keyboard won't work during installation.You'll require USB keyboard and mouse.***
 * After creating bootable USB, reboot your machine and got to your BIOS, set settings same as [SiddheshNan](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh) and plus also enable boot menu for F12 key(relevant to acer aspire 5 A515-51G model).<br>
 I'll also recommend to place your USB at the top in your boot priority order as it'll save you from the hassle of pressing F12 key on every reboot and select your stick since your laptop will reboot several times during the installation process. <br>
 * Save changes and press F12 to bring up the boot menu(not required if you've placed USB at the top in boot priority).<br>
