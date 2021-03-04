@@ -31,7 +31,10 @@ I followed [TechNolli's](https://www.youtube.com/watch?v=jqg7MX3FS7M) video tuto
 If you don't want to use recovery method to create bootable USB and want full bootable MacOS USB then you'll be required to access the MacOS machine. If you don't have access to an actual MacOS machine(which I guess is true for most cases :) ) then you can create a virtual machine using softwares like [VirtualBox](https://www.virtualbox.org/) or VMWare.I used VBox.You can follow up [this](https://www.youtube.com/watch?v=_faDsGKkvCs) tutorial to create the macOS virtual machine.
 <br>
 * After installing virtual machine download the Big Sur OS from [Apple Developer site](https://apps.apple.com/in/app/macos-big-sur/id1526878132?mt=12) or simply upgrade your macOS using **System Preferences** and it'll download the Big Sur Installer into **Applications**.Don't install it in your VM.
-* Now plug in your USB and go to **Disk Utility**,select your USB and Erase using ***name:USB,format:macOS extended journal and scheme:GUID partition map.*** 
+* Now plug in your USB and go to **Disk Utility**,select your USB and Erase with following parameters 
+* -***name:USB
+* -format:macOS extended journal 
+* -scheme:GUID partition map.*** 
 * After that open terminal and paste following command: `sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/USB`.Check Technolli video for more detailed instructions.
 * After you're done with creating bootable USB, copy the EFI folder and paste it into the root of your USB and you're done.
 
