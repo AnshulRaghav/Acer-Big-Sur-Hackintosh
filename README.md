@@ -3,8 +3,8 @@ Apple's Mac OS Big Sur hackintosh using OpenCore.
 
 ![Screenshot](https://github.com/AnshulRaghav/Acer-Big-Sur-Hackintosh/blob/master/Screen%20Shot%202021-01-02%20at%2019.24.52.png)
 
-I followed [TechNolli's](https://www.youtube.com/watch?v=jqg7MX3FS7M) video tutorial and [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) guide to create my hackintosh machine.I highly recommend to follow these two as they will give you a brief idea about Hackintosh and you can then create your Hackintosh machine according to your system specifications.
-<br> **Note: These two methods(Technolli and Opencore guide) use recovery pkg to create bootable USB which means you will be required to access internet during MacOS install.**
+I followed [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) guide to create my hackintosh machine.I highly recommend to follow it as it will give you a brief idea about Hackintosh and you can then create your Hackintosh machine according to your system specifications.
+<br> **Note: This method uses recovery pkg to create bootable USB which means you will be required to access internet during MacOS install.**
 
 <br>
 
